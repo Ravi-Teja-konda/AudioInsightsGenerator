@@ -71,9 +71,15 @@ Large File Support: To ensure your longer conversations and discussions are neve
 Integration with GPT-4: We are eager to implement the next iteration of OpenAI's language model upon its release. This means even more accurate insights, creative ideas, and comprehensive summaries for your audio files.
 
 
+## Enjoyed the Project?
+
+If this project has sparked your interest or assisted in your work, consider giving it a star! ⭐ Your support is much appreciated!
+
+Additionally, feel free to fork 🍴 and submit pull requests.
+
 
 ### Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check issues page. You can also take a look at the contributing guide.
+Contributions, issues, and feature requests are welcome! Feel free to check issues page.
 
 
 
