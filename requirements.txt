@@ -1,0 +1,4 @@
+openai==0.27.0
+requests==2.26.0
+tqdm==4.62.3
+google-colab==1.0.0
