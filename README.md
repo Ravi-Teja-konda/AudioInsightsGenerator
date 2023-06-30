@@ -12,6 +12,10 @@ Tap into the power of AI with AudioInsightsGenerator! Transform your audio files
 - 💡 Generate innovative ideas from audio content
 - 📚 Create immersive narratives
 
+## Run Directly on Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ravi-Teja-konda/AudioInsightsGenerator/blob/main/AudioInsightsGenerator.ipynb)
+
 
 ## Getting Started
 
