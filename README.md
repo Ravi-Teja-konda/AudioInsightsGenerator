@@ -2,6 +2,10 @@
 
 Tap into the power of AI with AudioInsightsGenerator! Transform your audio files into comprehensive summaries, gain understanding through empathetic emotion analysis, ignite creativity with innovative idea generation, dive into immersive narratives, and refine your focus with smart content filtering. Discover the unseen dimensions of your audio content!
 
+## Run Directly on Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ravi-Teja-konda/AudioInsightsGenerator/blob/main/AudioInsightsGenerator.ipynb)
+
 
 ## Features
 
@@ -11,10 +15,6 @@ Tap into the power of AI with AudioInsightsGenerator! Transform your audio files
 - 🔍 Smartly filter and focus on key contents
 - 💡 Generate innovative ideas from audio content
 - 📚 Create immersive narratives
-
-## Run Directly on Google Colab
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ravi-Teja-konda/AudioInsightsGenerator/blob/main/AudioInsightsGenerator.ipynb)
 
 
 ## Getting Started
